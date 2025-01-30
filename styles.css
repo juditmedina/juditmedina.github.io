@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'blaak';
-    src: url('blaakregular-webfont.woff2') format('woff2'),
-         url('blaakregular-webfont.woff') format('woff');
+    src: url('fonts/blaakregular-webfont.woff2') format('woff2'),
+         url('fonts/blaakregular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'blaak';
-    src: url('blaakbold_personal-webfont.woff2') format('woff2'),
-         url('blaakbold_personal-webfont.woff') format('woff');
+    src: url('fonts/blaakbold_personal-webfont.woff2') format('woff2'),
+         url('fonts/blaakbold_personal-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }

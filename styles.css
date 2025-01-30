@@ -1,9 +1,9 @@
 @font-face  {
-  font-family: blaak;  /* Nombre con el que llamarás la fuente */
-  src: url(fonts/BlaakRegular_PERSONAL.ttf) format('ttf'),   /* Ruta de tu archivo de fuente .ttf */
+  font-family: 'blaak';  /* Nombre con el que llamarás la fuente */
+  src: url('fonts/BlaakRegular_PERSONAL.ttf') format('truetype'),   /* Ruta de tu archivo de fuente .ttf */
   font-weight: normal; /* Opción de peso si es necesario */
   font-style: normal;  /* Opción de estilo (normal, italic) */
 
 h1 {
-    font-family: blaak;
+    font-family: 'blaak';
 }

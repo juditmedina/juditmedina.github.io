@@ -1,8 +1,9 @@
-@font-face  {
-  font-family: 'blaak';
-  src: url('fonts/BlaakRegular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+@font-face {
+    font-family: 'blaak_regular_personal_useRg';
+    src: url('blaakregular-webfont.woff2') format('woff2'),
+         url('blaakregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 h1 {

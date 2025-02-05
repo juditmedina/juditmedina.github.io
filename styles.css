@@ -14,10 +14,15 @@
     font-style: normal;
 }
 
+.heading::before {
+    content: "👋🏻 ";
+    font-size: 5rem;
+}
 
 h1 {
     font-family: 'blaak', sans-serif;
     font-weight: bold;
+    font-size: 5rem;
 }
 
 p {

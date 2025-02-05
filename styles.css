@@ -49,6 +49,7 @@ h1 {
     font-weight: thin;
     font-size: 5rem;
     text-align: left;
+    width: 100%;
     max-width: 80rem;
     padding-bottom: 5rem;
     margin: 0;

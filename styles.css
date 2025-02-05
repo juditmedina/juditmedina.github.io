@@ -26,12 +26,13 @@ header {
 }
 
 .menu {
-    display: inline-block;
+    display: flex;              /* Usa flexbox para organizar los elementos */
+    justify-content: space-between; /* Deja espacio entre el logo y el link */
+    align-items: center;        /* Alinea verticalmente los elementos */
 }
 
 .nav-links {
     display: flex;
-    align-items: right;
 }
 
 

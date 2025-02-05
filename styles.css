@@ -51,6 +51,7 @@ h1 {
     text-align: left;
     width: 100%;
     max-width: 80rem;
+    overflow-wrap: break-word;
     padding-bottom: 5rem;
     margin: 0;
     vertical-align: text-bottom;

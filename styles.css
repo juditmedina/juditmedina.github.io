@@ -4,6 +4,7 @@
          url('fonts/blaakthin-webfont.woff') format('woff');
     font-weight: thin;
     font-style: normal;
+    letter-spacing: -5%;
 }
 
 @font-face {
@@ -45,6 +46,7 @@ h1 {
     text-align: left;
     max-width: 80rem;
     padding-bottom: 5rem;
+    align: bottom;
 }
 
 p {

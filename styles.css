@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'blaak';
-    src: url('fonts/blaakregular-webfont.woff2') format('woff2'),
-         url('fonts/blaakregular-webfont.woff') format('woff');
-    font-weight: normal;
+    src: url('fonts/blaakthin-webfont.woff2') format('woff2'),
+         url('fonts/blaakthin-webfont.woff') format('woff');
+    font-weight: thin;
     font-style: normal;
 }
 
@@ -14,6 +14,25 @@
     font-style: normal;
 }
 
+html {
+    background-color: #FFF6F5;
+}
+
+header {
+    width: 100%;         
+    height: 100vh;       
+}
+
+.logo, .nav-links {
+    display: inline-block;
+}
+
+.nav-links {
+    display: flex;
+    align-items: right;
+}
+
+
 .heading::before {
     content: "👋🏻 ";
     font-size: 5rem;
@@ -21,11 +40,15 @@
 
 h1 {
     font-family: 'blaak', sans-serif;
-    font-weight: bold;
+    font-weight: thin;
     font-size: 5rem;
+    text-align: left;
+    max-width: 80rem;
+    padding-bottom: 5rem;
 }
 
 p {
     font-family: 'blaak', sans-serif;
-    font-weight: normal;
+    font-weight: thin;
+    font-size: 1rem
 }

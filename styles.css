@@ -29,6 +29,8 @@ header {
     display: flex;              /* Usa flexbox para organizar los elementos */
     justify-content: space-between; /* Deja espacio entre el logo y el link */
     align-items: center;        /* Alinea verticalmente los elementos */
+    height: 3rem;
+    padding: 1em 1em;
 }
 
 .nav-links {

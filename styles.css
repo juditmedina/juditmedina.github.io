@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'blaak';
-    src: url('fonts/blaakthin-webfont.woff2') format('woff2'),
-         url('fonts/blaakthin-webfont.woff') format('woff');
+    src: url('fonts/blaakthin_personal-webfont.woff2') format('woff2'),
+         url('fonts/blaakthin_personal-webfont.woff') format('woff');
     font-weight: thin;
     font-style: normal;
     letter-spacing: -5%;

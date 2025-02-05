@@ -31,6 +31,7 @@ header {
     align-items: center;        /* Alinea verticalmente los elementos */
     height: 3rem;
     padding: 1em 1em;
+    margin: 0;
 }
 
 .nav-links {

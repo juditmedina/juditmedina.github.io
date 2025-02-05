@@ -46,7 +46,8 @@ h1 {
     text-align: left;
     max-width: 80rem;
     padding-bottom: 5rem;
-    align: bottom;
+    margin: 0;
+    vertical-align: text-bottom;
 }
 
 p {
